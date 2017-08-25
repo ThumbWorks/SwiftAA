@@ -68,7 +68,3 @@ public class Planet: Object, CelestialBody, PlanetaryBase, PlanetaryPhenomena, E
     
 }
 
-// special Pluto:
-public class DwarfPlanet: Object, PlanetaryBase {}
-
-
